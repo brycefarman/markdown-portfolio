@@ -1,1 +1,13 @@
-Replace this with a list of your favorite things.
+1. Food
+2. Sport
+3. Teeth
+ 
+ Mouth
+- Hat
+- Shoe
+- Hand
+
+
+* Paul
+* John
+  * Steve
